@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/nouxai/JuMi-Customer-Service-Center/blob/main/README.md">中文</a> | <a href="https://github.com/nouxai/JuMi-Customer-Service-Center/blob/main/README-EN.md">English</a><br></p>
+
 # JuMi-客服中心
 这是JuMi当地的人工智能助理客服中心。
 
